@@ -1,0 +1,48 @@
+body{
+    color: #1D1E2C;
+    background-color: #F7EBEC;
+    margin: 0;
+    font-family: 'Puritan', sans-serif;
+}
+.tablaestudios{
+    color: #1D1E2C;
+    margin: 50px;
+
+}
+
+.biografia{
+    font-family: 'Puritan', sans-serif;
+}
+
+.contenedorSuperior{
+    background-color: #E5625E;
+    position: relative;
+    padding-top: 20px;
+}
+
+h1{
+    color: #F7EBEC;
+    font-size: 5.625rem;
+    margin: 50px auto 20px auto;
+    font-family: 'Puritan', sans-serif;
+    text-align: center
+}
+
+.yo{
+    width: 20%;
+    float: left;
+    padding: 60px;
+    margin: 50px;
+}
+
+.contenedorMedio{
+    margin: 50px;
+}
+
+a {
+    background-color: #1D1E2C;
+    color: #F7EBEC;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+  }

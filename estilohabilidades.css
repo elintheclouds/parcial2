@@ -1,0 +1,37 @@
+body{
+    color: #1D1E2C;
+    background-color: #F7EBEC;
+    font-family: 'Puritan', sans-serif;
+}
+caption{
+    color: #1D1E2C;
+    font-size: 30px;
+    margin: 50px auto 20px auto;
+    font-family: 'Puritan', sans-serif;
+    text-align: center
+}
+
+table{
+    border-spacing: 4; 
+    border-collapse: collapse; 
+    background:rgb(224, 141, 141);
+    border-radius:6px;
+    overflow:hidden;
+    max-width:1000px; 
+    width:100%;
+    margin:0 auto;
+    position:relative;
+}
+a {
+    background-color: #1D1E2C;
+    color: #F7EBEC;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  th{
+      background-color: teal;
+      font-size: 20px;
+  }
+  td,th           { padding-left:8px}
+  {padding-right:8px}
